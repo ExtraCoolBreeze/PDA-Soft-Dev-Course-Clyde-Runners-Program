@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Craig McMillan - Glasgow Runners Club Final Project/1.0.0": {
+        "runtime": {
+          "Craig McMillan - Glasgow Runners Club Final Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Craig McMillan - Glasgow Runners Club Final Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

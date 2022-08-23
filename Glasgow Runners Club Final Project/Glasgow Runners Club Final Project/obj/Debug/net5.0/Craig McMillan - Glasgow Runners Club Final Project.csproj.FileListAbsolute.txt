@@ -1,0 +1,32 @@
+C:\Users\Craig\source\repos\Craig McMillan - Glasgow Runners Club Final Project\bin\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.exe
+C:\Users\Craig\source\repos\Craig McMillan - Glasgow Runners Club Final Project\bin\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.deps.json
+C:\Users\Craig\source\repos\Craig McMillan - Glasgow Runners Club Final Project\bin\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.runtimeconfig.json
+C:\Users\Craig\source\repos\Craig McMillan - Glasgow Runners Club Final Project\bin\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.runtimeconfig.dev.json
+C:\Users\Craig\source\repos\Craig McMillan - Glasgow Runners Club Final Project\bin\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.dll
+C:\Users\Craig\source\repos\Craig McMillan - Glasgow Runners Club Final Project\bin\Debug\net5.0\ref\Craig McMillan - Glasgow Runners Club Final Project.dll
+C:\Users\Craig\source\repos\Craig McMillan - Glasgow Runners Club Final Project\bin\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.pdb
+C:\Users\Craig\source\repos\Craig McMillan - Glasgow Runners Club Final Project\obj\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.csproj.AssemblyReference.cache
+C:\Users\Craig\source\repos\Craig McMillan - Glasgow Runners Club Final Project\obj\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Craig\source\repos\Craig McMillan - Glasgow Runners Club Final Project\obj\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.AssemblyInfoInputs.cache
+C:\Users\Craig\source\repos\Craig McMillan - Glasgow Runners Club Final Project\obj\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.AssemblyInfo.cs
+C:\Users\Craig\source\repos\Craig McMillan - Glasgow Runners Club Final Project\obj\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Craig\source\repos\Craig McMillan - Glasgow Runners Club Final Project\obj\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.dll
+C:\Users\Craig\source\repos\Craig McMillan - Glasgow Runners Club Final Project\obj\Debug\net5.0\ref\Craig McMillan - Glasgow Runners Club Final Project.dll
+C:\Users\Craig\source\repos\Craig McMillan - Glasgow Runners Club Final Project\obj\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.pdb
+C:\Users\Craig\source\repos\Craig McMillan - Glasgow Runners Club Final Project\obj\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.genruntimeconfig.cache
+C:\Users\Craig\Desktop\PROJECT COPY!\Craig McMillan - Glasgow Runners Club Final Project\bin\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.exe
+C:\Users\Craig\Desktop\PROJECT COPY!\Craig McMillan - Glasgow Runners Club Final Project\bin\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.deps.json
+C:\Users\Craig\Desktop\PROJECT COPY!\Craig McMillan - Glasgow Runners Club Final Project\bin\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.runtimeconfig.json
+C:\Users\Craig\Desktop\PROJECT COPY!\Craig McMillan - Glasgow Runners Club Final Project\bin\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.runtimeconfig.dev.json
+C:\Users\Craig\Desktop\PROJECT COPY!\Craig McMillan - Glasgow Runners Club Final Project\bin\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.dll
+C:\Users\Craig\Desktop\PROJECT COPY!\Craig McMillan - Glasgow Runners Club Final Project\bin\Debug\net5.0\ref\Craig McMillan - Glasgow Runners Club Final Project.dll
+C:\Users\Craig\Desktop\PROJECT COPY!\Craig McMillan - Glasgow Runners Club Final Project\bin\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.pdb
+C:\Users\Craig\Desktop\PROJECT COPY!\Craig McMillan - Glasgow Runners Club Final Project\obj\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.csproj.AssemblyReference.cache
+C:\Users\Craig\Desktop\PROJECT COPY!\Craig McMillan - Glasgow Runners Club Final Project\obj\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Craig\Desktop\PROJECT COPY!\Craig McMillan - Glasgow Runners Club Final Project\obj\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.AssemblyInfoInputs.cache
+C:\Users\Craig\Desktop\PROJECT COPY!\Craig McMillan - Glasgow Runners Club Final Project\obj\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.AssemblyInfo.cs
+C:\Users\Craig\Desktop\PROJECT COPY!\Craig McMillan - Glasgow Runners Club Final Project\obj\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Craig\Desktop\PROJECT COPY!\Craig McMillan - Glasgow Runners Club Final Project\obj\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.dll
+C:\Users\Craig\Desktop\PROJECT COPY!\Craig McMillan - Glasgow Runners Club Final Project\obj\Debug\net5.0\ref\Craig McMillan - Glasgow Runners Club Final Project.dll
+C:\Users\Craig\Desktop\PROJECT COPY!\Craig McMillan - Glasgow Runners Club Final Project\obj\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.pdb
+C:\Users\Craig\Desktop\PROJECT COPY!\Craig McMillan - Glasgow Runners Club Final Project\obj\Debug\net5.0\Craig McMillan - Glasgow Runners Club Final Project.genruntimeconfig.cache
